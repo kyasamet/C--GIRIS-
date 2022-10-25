@@ -1,0 +1,58 @@
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\bin\Debug\05042018.exe
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\bin\Debug\05042018.pdb
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\MainWindow.baml
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\Window1.baml
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\MainWindow.g.cs
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\Window1.g.cs
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\App.g.cs
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\05042018_MarkupCompile.cache
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\05042018.g.resources
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\_05042018.Properties.Resources.resources
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\05042018.csproj.GenerateResource.Cache
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\05042018.exe
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\05042018.pdb
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\_05042018.Form1.resources
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\bin\Debug\Database1.sdf
+c:\users\ogr_11\documents\visual studio 2010\Projects\05042018\05042018\obj\x86\Debug\05042018_Content.g.cs
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\05042018.exe
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\05042018.pdb
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\MainWindow.baml
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\Window1.baml
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\Window1.g.cs
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\App.g.cs
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\05042018_Content.g.cs
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\05042018_MarkupCompile.cache
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\05042018.g.resources
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\_05042018.Form1.resources
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\_05042018.Properties.Resources.resources
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\05042018.csproj.GenerateResource.Cache
+C:\Users\ogr_11\Desktop\05042018\05042018\bin\Debug\Database1.sdf
+C:\Users\ogr_11\Desktop\05042018\05042018\bin\Debug\05042018.exe
+C:\Users\ogr_11\Desktop\05042018\05042018\bin\Debug\05042018.pdb
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\Window2.baml
+C:\Users\ogr_11\Desktop\05042018\05042018\obj\x86\Debug\Window2.g.cs
+F:\Program Files x64\05042018\05042018\obj\x86\Debug\05042018.exe
+F:\Program Files x64\05042018\05042018\obj\x86\Debug\05042018.pdb
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\bin\Debug\Database1.sdf
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\bin\Debug\05042018.exe.config
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\bin\Debug\05042018.exe
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\bin\Debug\05042018.pdb
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\05042018.csproj.AssemblyReference.cache
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\05042018.csproj.SuggestedBindingRedirects.cache
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\MainWindow.baml
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\Window1.baml
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\Window2.baml
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\MainWindow.g.cs
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\Window1.g.cs
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\Window2.g.cs
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\App.g.cs
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\05042018_Content.g.cs
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\05042018_MarkupCompile.cache
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\05042018.g.resources
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\_05042018.Form1.resources
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\_05042018.Properties.Resources.resources
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\05042018.csproj.GenerateResource.cache
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\05042018.csproj.CoreCompileInputs.cache
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\05042018.exe
+D:\Dosyalarım\11-A\Yaptıklarım\Kullanıcı Giriş-Database\05042018\obj\x86\Debug\05042018.pdb
